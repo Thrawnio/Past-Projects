@@ -2,7 +2,7 @@ import tkinter
 import window
 
 
-class DrawPadApp(xyz.GUIWindow):
+class DrawPadApp(window.GUIWindow):
     def __init__(self):
         super().__init__(1000, 720, title="Drawing Pad")
         self.canvas = tkinter.Canvas(self.window, width=self.width-80, height=self.height-180, bg="white")
