@@ -1,5 +1,5 @@
 import tkinter
-import xyz
+import window
 
 
 class DrawPadApp(xyz.GUIWindow):
