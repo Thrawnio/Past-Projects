@@ -7,4 +7,7 @@ The file Login.py is the window that appears initially that asks for your login 
 ![image](https://github.com/LinuxJava7/Past-Projects/assets/41801793/8e155ee0-3ad7-49b2-a5b7-8de0fa245dc1)
 
 ## Drawing Pad
+
 ![image](https://github.com/LinuxJava7/Past-Projects/assets/41801793/e250eb33-fb8c-45ef-ae4b-2da94fac73ba)
+
+Just to caveat, if you run this program on MacOS, it will work however the colours of the buttons won't appear. This seems to be an issue beyond my capability of fixing. This is how it looks on MacOS:
